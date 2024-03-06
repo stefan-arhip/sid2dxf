@@ -1,0 +1,249 @@
+mrsidgeodecode
+
+The mrsidgeodecode tool extracts (decodes) all or a portion of a MrSID or JPEG 2000 image to one of several image formats.  
+
+Switches 
+
+File Control 
+
+Switch  		Value 		Notes 
+-input/-i 		string 		Input file (required) 
+-output/-o		string		Output file (required) 
+-outputFormat/-of 	string 		Output image format. Acceptable values:
+					tif – TIFF
+					tifg – GeoTIFF
+					jpg – JPEG (not JPEG 2000)
+					bil – (a BBB format) Band interleaved by line
+					bip – (a BBB format) Band interleaved by pixel
+					bsq – (a BBB format) Band sequential
+					bmp – Windows bitmap (BMP)
+-inputFormat/-if 	string 		Input image format 
+
+
+
+Main Switches 
+
+Switch  		Value 		Notes 
+-watermarkFile 		string 		Watermark file 
+-watermarkPosition 	string 		Position of watermark. Acceptable values:
+					center 
+					center_left 
+					center_right 	
+					upper_left 
+					upper_center 
+					upper_right 
+					lower_left 
+					lower_center 
+					lower_right (default)
+ 
+-dynRangeMin/-drmin 	uint 		Minimum dynamic range 
+-dynRangeMax/-drmax 	uint 		Maximum dynamic range 
+-autoDynRange/-drauto   		Automatic dynamic range adjustment 
+-worldFile/-wf   			Generate world file 
+-stripHeight/-sh 	uint 		Strip height 
+-endian 		string 		Endianness (BBB output only). Acceptable values: 
+					little 
+					big 
+-bsq   					Output is .bsq (BBB output only) 
+
+
+MrSID Options 
+
+Switch  		Value 		Notes 
+-password/-pwd 		string 		Password to decode image 
+
+JPEG 2000 Options 
+Switch 			Value 		Notes 
+-qualityLayers/-layers 	uint 		Number of quality layers (JPEG 2000 only) 
+
+
+Scene Selection 
+Switch  		Value 		Notes 
+-ulxy 			float0 float1 	Upper left of scene (x,y) 
+-lrxy 			float0 float1 	Lower right of scene (x,y) 
+-cxy 			float0 float1 	Center of scene (x,y) 
+-wh 			float0 float1 	Size of scene (width, height) 
+-scale/-s 		sint 		Scale of scene 
+-coordspace/-coord 	string 		Coordinate space of scene. Acceptable values:
+					geo 
+					image 
+					resrel 
+ 
+
+Examples
+
+To decode a MrSID file to a JPG file: 
+
+	mrsidgeodecode -i input.sid -o output.jpg 
+
+To decode a MrSID file to a GeoTIFF file: 
+
+	mrsidgeodecode -i input.sid -o geotiff.tif -of tifg 
+
+To decode the upper-left 50x50 pixel scene from a JPEG 2000 image: 
+
+	mrsidgeodecode -i input.jp2 -o output.tif -ulxy 0 0 -wh 50 50 
+
+To decode an image at scale 2, i.e. one-quarter resolution: 
+
+	mrsidgeodecode -i input.jp2 -o output.tif -s 2 
+
+
+
+Some Definitions 
+
+Let us define "input scene" (or just "scene") to be the portion of the MrSID image to be decoded. The scene may be the whole image or some subset. The scene may extend "outside" of the image proper. 
+
+Let us also define "output window" (or just "window") to be the region occupied by the image produced by the decoder, e.g. the generated TIFF. Note that the output window may not be the same size as the input scene. 
+
+Finally, let us define "coordinate space" to refer to one of three possible ways of specifying regions of the image: 
+
+	image space: what we normally think of as "pixel" space, at full resolution 
+	geo space: the image's geographic space 
+	resrel space: "resolution relative" space, which is the same as image space but in terms of a given resolution (scale) 
+
+
+Basic Scene Selection 
+
+The command line decoder allows you to specify the input scene explicitly in one of three ways: 
+
+upper-left (x,y) corner of scene, and (width,height) of scene 
+
+	-ulxy X Y -wh W H 
+
+upper-left (x,y) corner of scene, and lower-right (x,y) corner of scene 
+
+	-ulxy X Y -lrxy X Y 
+
+center (x,y) of scene, and (width,height) of scene 
+
+	-cxy X Y -wh W H 
+
+For example, consider a 100x100 image. To select the upper-left quarter of the image, the following three ways are equivalent: 
+
+	-ulxy 0 0 -wh 50 50 
+
+	-ulxy 0 0 -lrxy 49 49 
+
+	-cxy 25 25 -wh 50 50 
+
+(The reader is strongly encouraged to work these examples through manually, to ensure full understanding of the material being presented.) 
+
+NOTE: If no scene is specified, the decoder defaults to the entire image. 
+
+
+Scaled Scene Selection
+ 
+Consider again the 100x100 image. At scale 1 (half-resolution), this is a 50x50 image. To decode the same upper-right quarter at half-res -- a 25x25 image -- these three are equivalent (modulo round-off errors): 
+
+	-s 1 -ulxy 0 0 -wh 25 25 
+
+	-s 1 -ulxy 0 0 -lrxy 25 25 
+
+	-s 1 -cxy 25 25 -wh 25 25 
+
+The first form is straight-forward: it just says make a scale 1 image, starting at the upper-right corner, of size 25x25. The second form is also clear: make a scale 1 image, starting at the upper-right corner and extending down to (25,25). And the third form is really just a variation of the first: make a scale 1 image, centered at (25,25), of size 25x25... 
+
+If our center is at (25,25) and we're only 25 pixels square, wouldn't our output image run from about (12,12) to (37,37)? 
+
+Surprisingly, the answer is no, because the image is scaled. The center point is defined in the normal, full-resolution space of the input scene – (25,25) is correct. But when the image is decoded, that center point is really treated as (12,12), which is where it is on the scale 1 image. The output window size is expressed in pixels relative to that scaled center point, and so the output image runs from about (0,0) to (25,25). 
+
+
+
+Input Scenes and Output Windows 
+
+Recall that in the definitions above, we noted the output window may be different than the input scene. Here's how that can happen. 
+
+Consider the following decode on our 100x100 image: 
+
+	-s 0 -ulxy 0 0 -wh 125 125
+
+This is a normal scale 0 decode, but the output window is 125x125 – considerably larger than our input scene. The result is an image that really is 125x125, with the right and bottom edges left as black (technically, the background color). 
+
+One could reasonably argue that allowing the user to specify a decode "outside the image" is a bug, but for an end-user app it's actually a nice feature to have: it lets the user extract out some arbitrarily-sized region of her image, but turn it into a more well-formed size. The classic example of this feature is a decode along these lines: 
+
+	-s 4 -ulxy -wh 32 32 
+
+which extracts the scaled image into a stock 32-x32 icon (we assume here that the scale 4 image is of some size less than or equal to 32x32, otherwise they'd have to use a smaller scale). 
+
+The input scene is always positioned in the upper-left corner of the output window – unless you are using the -cxy scene selection mechanism, in which case the input scene is always positioned in the center of the output window. 
+
+
+Geo Coordinate Spaces 
+
+The above examples are all done in the familiar "pixel space", where (0,0) is the upper-left corner and the lower-right corner is (width-1,height-1) and each pixel is a 1x1 object. We call this "image" space and it is the default. 
+
+For geo images, however, we often prefer to express points on the image and dimensions in terms of geo coordinates. That is, the upper-left might be (32929.00,28292.25) and the size of the pixel might be (0.0005,0.0005). 
+
+To accommodate this, we allow the above scene selections to be done in "geo" space. If our 100x100 image had an upper-left coordinate of (100.0,50.0) and an x,y resolution of (10.0,5.0), we would use the following to decode the whole image: 
+
+	-coord geo -ulxy 100 50 -wh 1000 500 
+
+That is, the input scene starts at the upper-left position of (100.0,50.0) and the output window is the full size of the input image (100*10=1000 and 100*5=500). 
+
+
+Resrel Coordinate Spaces 
+
+We also allow the user to specify the scene using a resolution relative coordinate system ("resrel" for short). In this system, the (x,y) points and the (width,height) dimensions are given in the scale of the decode request instead of the normal scale 0 pixel space. 
+
+For example, these are all equivalent ways of taking a small scaled scene from the middle of our 100x100 image: 
+
+	-s 1 -ulxy 20 20 -lrxy 39 39 -coord image 
+
+	-s 1 -ulxy 20 20 -wh 20 20 -coord image 
+	
+	-s 1 -ulxy 10 10 -lrxy 19 19 -coord resrel 
+
+	-s 1 -ulxy 10 10 -wh 10 10 -coord resrel 
+
+Note that resrel only makes sense for decodes at other than scale 0. When decoding at scale 0, resrel is that same as the default image coordinate space. 
+
+
+
+More Examples 
+
+To conclude, the following groups of scene selections using our 100x100 image with UL=(100,50) and res=(10,5) are all equivalent. 
+
+Full scene, full res (100x100 image, all picture at full res):
+
+	-ulxy 0 0 -wh 100 100 -s 0 -coord image 
+	-ulxy 0 0 -lrxy 99 99 -s 0 -coord image 
+	-cxy 50 50 -wh 100 100 -s 0 -coord image 
+	-ulxy 100 50 -wh 1000 500 -s 0 -coord geo 
+	-ulxy 100 50 -lrxy 1090 -445 -s 0 -coord geo 
+	-cxy 600 -200 -wh 1000 500 -s 0 -coord geo 
+	-ulxy 0 0 -wh 100 100 -s 0 -coord resrel 
+	-ulxy 0 0 -lrxy 99 99 -s 0 -coord resrel 
+	-cxy 50 50 -wh 100 100 -s 0 -coord resrel 
+
+Part scene, full res (50x50 image, UL quarter of image at full res):
+
+	-ulxy 0 0 -wh 50 50 -s 0 -coord image 
+	-ulxy 0 0 -lrxy 49 49 -s 0 -coord image 
+	-cxy 25 25 -wh 50 50 -s 0 -coord image 
+	-ulxy 100 50 -wh 500 250 -s 0 -coord geo 
+	-ulxy 100 50 -lrxy 590 -195 -s 0 -coord geo 
+	-cxy 350 -75 -wh 500 250 -s 0 -coord geo 
+	-ulxy 0 0 -wh 50 50 -s 0 -coord resrel 
+	-ulxy 0 0 -lrxy 49 49 -s 0 -coord resrel 
+	-cxy 25 25 -wh 50 50 -s 0 -coord resrel 
+
+Full scene, half-res (whole image at half res, in UL quadrant of 100x100 image): 
+
+	-ulxy 0 0 -wh 100 100 -s 1 -coord image 
+	-ulxy 0 0 -lrxy 99 99 -s 1 -coord image 
+	-ulxy 100 50 -wh 1000 500 -s 1 -coord geo 
+	-ulxy 100 50 -lrxy 1090 -445 -s 1 -coord geo 
+	-ulxy 0 0 -wh 50 50 -s 1 -coord resrel -ulxy 0 0 
+	-lrxy 49 49 -s 1 -coord resrel 
+
+Full scene, half-res (centered) (whole image at half res, in center quadrant of 100x100 image): 
+
+	-cxy 50 50 -wh 100 100 -s 1 -coord image 
+	-cxy 25 25 -wh 50 50 -s 1 -coord resrel 
+
+Full scene, half-res (centered) (whole image at half res, in center of a 50x50 image): 
+
+	-cxy 600 -200 -wh 1000 500 -s 1 -coord geo
+
+ 

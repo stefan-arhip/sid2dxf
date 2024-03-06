@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel r21627"
+   sodipodi:docname="iconite.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3283">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3285" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3287" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2447"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3269"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3302"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3312"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <inkscape:perspective
+       id="perspective3395"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3512"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3520"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3546"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <inkscape:perspective
+       id="perspective3594"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3644"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient2530"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient2551"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3459"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3461"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <inkscape:perspective
+       id="perspective3177"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3541"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283"
+       id="linearGradient3543"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <inkscape:perspective
+       id="perspective3008"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3022"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283-7"
+       id="linearGradient3541-1"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       id="linearGradient3283-7">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3285-4" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3287-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283-7"
+       id="linearGradient3543-9"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+    <linearGradient
+       id="linearGradient3031">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3033" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3035" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3283-7"
+       id="linearGradient3898"
+       gradientUnits="userSpaceOnUse"
+       x1="-80.095505"
+       y1="514.74982"
+       x2="-47.005615"
+       y2="547.83966" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5715986"
+     inkscape:cx="-121.81328"
+     inkscape:cy="172.9237"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="913"
+     inkscape:window-x="-4"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3403" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3407"
+       inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+       inkscape:export-xdpi="98.440002"
+       inkscape:export-ydpi="98.440002">
+      <rect
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         y="587.68805"
+         x="-184.35954"
+         height="35"
+         width="70"
+         id="rect3295"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         transform="translate(-0.1590203,0.1753314)"
+         id="g3297">
+        <path
+           sodipodi:type="arc"
+           style="opacity:1;fill:url(#linearGradient3302);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3275"
+           sodipodi:cx="-63.55056"
+           sodipodi:cy="531.29474"
+           sodipodi:rx="16.044945"
+           sodipodi:ry="16.044945"
+           d="m -47.505615,531.29474 c 0,8.86138 -7.183567,16.04494 -16.044945,16.04494 -8.861378,0 -16.044945,-7.18356 -16.044945,-16.04494 0,-8.86138 7.183567,-16.04495 16.044945,-16.04495 8.861378,0 16.044945,7.18357 16.044945,16.04495 z"
+           transform="matrix(0.9670628,0,0,0.9670628,-105.35723,91.078015)"
+           inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+           inkscape:export-xdpi="98.440002"
+           inkscape:export-ydpi="98.440002" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3277"
+           width="5.5842695"
+           height="14.629213"
+           x="-169.41573"
+           y="597.28351" />
+        <rect
+           y="159.30899"
+           x="601.80597"
+           height="14.629213"
+           width="5.5842695"
+           id="rect3281"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3306"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.305241,91.253346)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <rect
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3308"
+         width="5.5842695"
+         height="14.629213"
+         x="-134.36374"
+         y="597.45886" />
+      <rect
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         y="124.257"
+         x="601.98132"
+         height="14.629213"
+         width="5.5842695"
+         id="rect3310"
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1,-1,0,0,0)" />
+    </g>
+    <g
+       id="g3524">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3419"
+         width="70"
+         height="35"
+         x="-184.35954"
+         y="629.79242"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\delete.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3520);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3423"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-105.50766,133.49706)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3405"
+         d="M -174.96504,639.79244 L -169.96504,639.79244 L -166.96504,643.79244 L -163.96504,639.79244 L -158.96504,639.79244 L -163.96504,647.79244 L -158.96504,654.79244 L -163.96504,654.79244 L -166.96504,650.79244 L -169.96504,654.79244 L -174.96504,654.79244 L -169.96504,647.79244 L -174.96504,639.79244 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(8.5851461e-3,-2.3073904)"
+         id="g3464">
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient3512);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3429"
+           sodipodi:cx="-63.55056"
+           sodipodi:cy="531.29474"
+           sodipodi:rx="16.044945"
+           sodipodi:ry="16.044945"
+           d="m -47.505615,531.29474 c 0,8.86138 -7.183567,16.04494 -16.044945,16.04494 -8.861378,0 -16.044945,-7.18356 -16.044945,-16.04494 0,-8.86138 7.183567,-16.04495 16.044945,-16.04495 8.861378,0 16.044945,7.18357 16.044945,16.04495 z"
+           transform="matrix(0.9670628,0,0,0.9670628,-70.305241,135.80445)"
+           inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+           inkscape:export-xdpi="98.440002"
+           inkscape:export-ydpi="98.440002" />
+        <path
+           id="path3452"
+           d="M -139.76262,642.09983 L -134.76262,642.09983 L -131.76262,646.09983 L -128.76262,642.09983 L -123.76262,642.09983 L -128.76262,650.09983 L -123.76262,657.09983 L -128.76262,657.09983 L -131.76262,653.09983 L -134.76262,657.09983 L -139.76262,657.09983 L -134.76262,650.09983 L -139.76262,642.09983 z"
+           style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g3698">
+      <rect
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         y="673.00385"
+         x="-184.35954"
+         height="35"
+         width="70"
+         id="rect3534"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3644);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3542"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.296656,176.70846)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <g
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         id="g3662">
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient3546);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3536"
+           sodipodi:cx="-63.55056"
+           sodipodi:cy="531.29474"
+           sodipodi:rx="16.044945"
+           sodipodi:ry="16.044945"
+           d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+           transform="matrix(0.9670628,0,0,0.9670628,-105.50766,176.70846)"
+           inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+           inkscape:export-xdpi="98.440002"
+           inkscape:export-ydpi="98.440002" />
+        <g
+           id="g3630"
+           transform="translate(-105.36227,77.072588)">
+          <path
+             id="path3610"
+             d="M -70.205541,622.50032 C -70.189199,622.50032 -70.172857,622.50032 -70.205541,622.50032 z"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             id="path3616"
+             d="M -70,616.36218 L -59,604.36218 L -53,610.36218 L -64,622.36218 L -70,622.36218 L -70,616.36218 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path3612"
+             d="M -59,604.36218 L -53,610.36218 L -64,622.36218 L -70,616.36218 L -59,604.36218 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             id="path3614"
+             d="M -70.205541,622.50032 C -70.205541,622.48398 -70.205541,622.46763 -70.205541,622.50032 z"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             id="path3618"
+             d="M -70.205541,622.48145 C -70.205541,622.49779 -70.205541,622.51413 -70.205541,622.48145 z"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="path3628"
+             d="M -70,622.36218 L -70,620.36218 L -68,622.36218 L -70,622.36218 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,699.57291 C -139.46817,699.57291 -139.45183,699.57291 -139.48452,699.57291 z"
+         id="path3650" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.27898,693.43477 L -128.27898,681.43477 L -122.27898,687.43477 L -133.27898,699.43477 L -139.27898,699.43477 L -139.27898,693.43477 z"
+         id="path3652"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -128.27898,681.43477 L -122.27898,687.43477 L -133.27898,699.43477 L -139.27898,693.43477 L -128.27898,681.43477 z"
+         id="path3654"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,699.57291 C -139.48452,699.55657 -139.48452,699.54022 -139.48452,699.57291 z"
+         id="path3656" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,699.55404 C -139.48452,699.57038 -139.48452,699.58672 -139.48452,699.55404 z"
+         id="path3658" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.27898,699.43477 L -139.27898,697.43477 L -137.27898,699.43477 L -139.27898,699.43477 z"
+         id="path3660"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g3349"
+       inkscape:export-filename="D:\- COVACI BOGDAN\SOFT\EDCA v1.05\imagini\refresh.png"
+       inkscape:export-xdpi="98.440002"
+       inkscape:export-ydpi="98.440002">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2496"
+         width="70"
+         height="35"
+         x="-184.35954"
+         y="721.83862"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.296656,225.54321)"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         sodipodi:ry="16.044945"
+         sodipodi:rx="16.044945"
+         sodipodi:cy="531.29474"
+         sodipodi:cx="-63.55056"
+         id="path2498"
+         style="fill:url(#linearGradient2530);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient2551);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2502"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-105.50766,225.54321)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path2518"
+         d="M -139.48452,748.40766 C -139.46817,748.40766 -139.45183,748.40766 -139.48452,748.40766 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path2524"
+         d="M -139.48452,748.40766 C -139.48452,748.39132 -139.48452,748.37497 -139.48452,748.40766 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path2526"
+         d="M -139.48452,748.38879 C -139.48452,748.40513 -139.48452,748.42147 -139.48452,748.38879 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="path2399"
+         d="M -162.0924,734.80933 L -164.03345,736.64474 L -158.17024,736.64474 L -158.17024,730.78154 L -159.97838,732.57096 C -167.90508,726.44058 -175.67509,732.46898 -175.75984,739.57634 L -172.82824,739.57634 C -171.93784,734.06835 -166.93034,730.88717 -162.0924,734.80933 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.96700001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.96700001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="M -171.83768,743.86784 L -169.89663,742.03243 L -175.75984,742.03243 L -175.75984,747.89563 L -173.9517,746.10621 C -166.025,752.23659 -158.25499,746.20819 -158.17024,739.10083 L -161.10184,739.10083 C -161.99224,744.60882 -166.99974,747.79 -171.83768,743.86784 z"
+         id="path2561"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.96700001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -126.8814,734.80933 L -128.82245,736.64474 L -122.95924,736.64474 L -122.95924,730.78154 L -124.76738,732.57096 C -132.69408,726.44058 -140.46409,732.46898 -140.54884,739.57634 L -137.61724,739.57634 C -136.72684,734.06835 -131.71934,730.88717 -126.8814,734.80933 z"
+         id="path3339"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="path3341"
+         d="M -136.62668,743.86784 L -134.68563,742.03243 L -140.54884,742.03243 L -140.54884,747.89563 L -138.7407,746.10621 C -130.814,752.23659 -123.04399,746.20819 -122.95924,739.10083 L -125.89084,739.10083 C -126.78124,744.60882 -131.78874,747.79 -136.62668,743.86784 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.96700001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3475"
+       inkscape:export-filename="D:\- COVACI BOGDAN\SOFT\EDCA v1.05\imagini\settings.png"
+       inkscape:export-xdpi="98.440002"
+       inkscape:export-ydpi="98.440002"
+       transform="translate(0,-4.5477214)">
+      <rect
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         y="772.00568"
+         x="-184.35954"
+         height="35"
+         width="70"
+         id="rect3438"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3459);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3440"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="m -47.505615,531.29474 c 0,8.86138 -7.183567,16.04494 -16.044945,16.04494 -8.861378,0 -16.044945,-7.18356 -16.044945,-16.04494 0,-8.86138 7.183567,-16.04495 16.044945,-16.04495 8.861378,0 16.044945,7.18357 16.044945,16.04495 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.296656,275.71026)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         transform="matrix(0.9670628,0,0,0.9670628,-105.50766,275.71026)"
+         d="m -47.505615,531.29474 c 0,8.86138 -7.183567,16.04494 -16.044945,16.04494 -8.861378,0 -16.044945,-7.18356 -16.044945,-16.04494 0,-8.86138 7.183567,-16.04495 16.044945,-16.04495 8.861378,0 16.044945,7.18357 16.044945,16.04495 z"
+         sodipodi:ry="16.044945"
+         sodipodi:rx="16.044945"
+         sodipodi:cy="531.29474"
+         sodipodi:cx="-63.55056"
+         id="path3442"
+         style="fill:url(#linearGradient3461);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,798.57471 C -139.46817,798.57471 -139.45183,798.57471 -139.48452,798.57471 z"
+         id="path3444" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,798.57471 C -139.48452,798.55837 -139.48452,798.54202 -139.48452,798.57471 z"
+         id="path3446" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -139.48452,798.55584 C -139.48452,798.57218 -139.48452,798.58852 -139.48452,798.55584 z"
+         id="path3448" />
+      <path
+         id="path2386"
+         d="M -161.45702,780.29876 C -164.18023,780.49949 -165.90999,781.84951 -165.87832,785.22248 L -168.74212,788.04862 L -168.72956,788.0612 L -171.41751,790.61096 C -172.56074,790.67933 -176.93523,791.12986 -175.77601,795.84871 L -174.43203,795.66029 L -173.74121,794.06508 L -172.23394,793.525 L -170.81461,794.69315 L -171.1035,796.57718 L -172.76149,797.23033 L -172.48516,798.71251 C -169.76195,798.51178 -168.01963,797.14918 -168.05129,793.77621 L -165.21262,790.96265 L -165.20006,790.95007 L -162.52467,788.40031 C -161.38144,788.33194 -156.99439,787.86887 -158.15361,783.15002 L -159.51014,783.33844 L -160.20097,784.94619 L -161.70823,785.48627 L -163.11501,784.31812 L -162.83868,782.43409 L -161.16813,781.76836 L -161.45702,780.29876 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40193644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.40193644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -126.24602,780.29876 C -128.96923,780.49949 -130.69899,781.84951 -130.66732,785.22248 L -133.53112,788.04862 L -133.51856,788.0612 L -136.20651,790.61096 C -137.34974,790.67933 -141.72423,791.12986 -140.56501,795.84871 L -139.22103,795.66029 L -138.53021,794.06508 L -137.02294,793.525 L -135.60361,794.69315 L -135.8925,796.57718 L -137.55049,797.23033 L -137.27416,798.71251 C -134.55095,798.51178 -132.80863,797.14918 -132.84029,793.77621 L -130.00162,790.96265 L -129.98906,790.95007 L -127.31367,788.40031 C -126.17044,788.33194 -121.78339,787.86887 -122.94261,783.15002 L -124.29914,783.33844 L -124.98997,784.94619 L -126.49723,785.48627 L -127.90401,784.31812 L -127.62768,782.43409 L -125.95713,781.76836 L -126.24602,780.29876 z"
+         id="path3473" />
+    </g>
+    <g
+       id="g3557"
+       inkscape:export-filename="D:\- COVACI BOGDAN\SOFT\EDCA v1.05\imagini\search.png"
+       inkscape:export-xdpi="98.440002"
+       inkscape:export-ydpi="98.440002">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3525"
+         width="70"
+         height="35"
+         x="-184.35954"
+         y="810.09283"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.296656,313.79743)"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         sodipodi:ry="16.044945"
+         sodipodi:rx="16.044945"
+         sodipodi:cy="531.29474"
+         sodipodi:cx="-63.55056"
+         id="path3527"
+         style="fill:url(#linearGradient3541);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3543);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3529"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="M -47.505615,531.29474 A 16.044945,16.044945 0 1 1 -79.595505,531.29474 A 16.044945,16.044945 0 1 1 -47.505615,531.29474 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-105.50766,313.79743)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <g
+         transform="matrix(0.2891479,0,0,0.2891479,-458.59136,817.40921)"
+         inkscape:label="Layer 1"
+         id="g3520">
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96700001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1000.6339,0.51622547 C 985.68034,0.51612547 973.54018,12.656325 973.54018,27.609925 C 973.54018,42.563525 985.68034,54.703625 1000.6339,54.703625 C 1007.0557,54.703625 1012.9573,52.474125 1017.6027,48.734925 L 1017.6027,53.922425 L 1032.6027,69.922425 L 1036.6027,69.922425 L 1043.6027,62.922425 L 1043.6027,58.922425 L 1028.6027,43.922425 L 1022.9464,42.984925 C 1025.9618,38.617225 1027.7277,33.314125 1027.7277,27.609925 C 1027.7277,12.656325 1015.5875,0.51622547 1000.6339,0.51622547 z M 1000.5402,8.3912255 C 1011.089,8.3911255 1019.6652,16.967225 1019.6652,27.516225 C 1019.6652,38.065025 1011.089,46.609925 1000.5402,46.609925 C 989.99133,46.609925 981.44643,38.064925 981.44643,27.516225 C 981.44643,16.967325 989.99134,8.3912255 1000.5402,8.3912255 z"
+           id="path2384" />
+      </g>
+      <path
+         id="path3531"
+         d="M -139.48452,836.66188 C -139.46817,836.66188 -139.45183,836.66188 -139.48452,836.66188 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3533"
+         d="M -139.48452,836.66188 C -139.48452,836.64554 -139.48452,836.62919 -139.48452,836.66188 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3535"
+         d="M -139.48452,836.64301 C -139.48452,836.65935 -139.48452,836.67569 -139.48452,836.64301 z"
+         style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <g
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+         id="g3553"
+         inkscape:label="Layer 1"
+         transform="matrix(0.2891479,0,0,0.2891479,-423.38035,817.40921)">
+        <path
+           id="path3555"
+           d="M 1000.6339,0.51622547 C 985.68034,0.51612547 973.54018,12.656325 973.54018,27.609925 C 973.54018,42.563525 985.68034,54.703625 1000.6339,54.703625 C 1007.0557,54.703625 1012.9573,52.474125 1017.6027,48.734925 L 1017.6027,53.922425 L 1032.6027,69.922425 L 1036.6027,69.922425 L 1043.6027,62.922425 L 1043.6027,58.922425 L 1028.6027,43.922425 L 1022.9464,42.984925 C 1025.9618,38.617225 1027.7277,33.314125 1027.7277,27.609925 C 1027.7277,12.656325 1015.5875,0.51622547 1000.6339,0.51622547 z M 1000.5402,8.3912255 C 1011.089,8.3911255 1019.6652,16.967225 1019.6652,27.516225 C 1019.6652,38.065025 1011.089,46.609925 1000.5402,46.609925 C 989.99133,46.609925 981.44643,38.064925 981.44643,27.516225 C 981.44643,16.967325 989.99134,8.3912255 1000.5402,8.3912255 z"
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.96700001000000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g3900"
+       inkscape:export-filename="D:\- COVACI BOGDAN\SOFT\EDCA v1.05\imagini\move.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3525-8"
+         width="70"
+         height="35"
+         x="-184.36"
+         y="853.94464"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         inkscape:export-ydpi="98.440002"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         transform="matrix(0.9670628,0,0,0.9670628,-70.021816,357.64922)"
+         d="m -47.505615,531.29474 a 16.044945,16.044945 0 1 1 -32.08989,0 16.044945,16.044945 0 1 1 32.08989,0 z"
+         sodipodi:ry="16.044945"
+         sodipodi:rx="16.044945"
+         sodipodi:cy="531.29474"
+         sodipodi:cx="-63.55056"
+         id="path3527-8"
+         style="fill:url(#linearGradient3898);fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3543-9);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3529-2"
+         sodipodi:cx="-63.55056"
+         sodipodi:cy="531.29474"
+         sodipodi:rx="16.044945"
+         sodipodi:ry="16.044945"
+         d="m -47.505615,531.29474 a 16.044945,16.044945 0 1 1 -32.08989,0 16.044945,16.044945 0 1 1 32.08989,0 z"
+         transform="matrix(0.9670628,0,0,0.9670628,-105.50812,357.64922)"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\add.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3531-5"
+         d="m -139.48498,880.51367 c 0.0164,0 0.0327,0 0,0 z"
+         style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3533-1"
+         d="m -139.48498,880.51367 c 0,-0.0163 0,-0.0327 0,0 z"
+         style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         id="path3535-7"
+         d="m -139.48498,880.4948 c 0,0.0163 0,0.0327 0,0 z"
+         style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Documents and Settings\Reborn\Desktop\edit.png"
+         inkscape:export-xdpi="98.440002"
+         inkscape:export-ydpi="98.440002" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-opacity:1;fill-opacity:1"
+         d="m -176.9655,871.4446 3,-3 0,2 6,0 0,-6 -2,0 3,-3 3,3 -2,0 0,6 6,0 0,-2 3,3 -3,3 0,-2 -6,0 0,6 2,0 -3,3 -3,-3 2,0 0,-6 -6,0 0,2 -3,-3 z"
+         id="path3122"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+      <path
+         style="fill:#808080;stroke:#808080;stroke-opacity:1;fill-opacity:1"
+         d="m -141.4792,871.4446 3,-3 0,2 6,0 0,-6 -2,0 3,-3 3,3 -2,0 0,6 6,0 0,-2 3,3 -3,3 0,-2 -6,0 0,6 2,0 -3,3 -3,-3 2,0 0,-6 -6,0 0,2 -3,-3 z"
+         id="path3896"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
